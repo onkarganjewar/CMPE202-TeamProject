@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=objectName\ objBall\ paddleLocationX
+comment0.target=void\ handleCollision(java.lang.String,\ Ball,\ int)
+comment1.params=next
+comment1.target=void\ setSuccessor(CollisionHandler)
+numComments=2

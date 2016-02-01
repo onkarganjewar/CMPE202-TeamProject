@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment0.text=\r\n\ When\ the\ paddle\ gets\ created,\ create\ a\ ball\ as\ well.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=dist
+comment2.target=void\ move(int)
+comment3.params=
+comment3.target=void\ newBall()
+comment4.params=
+comment4.target=boolean\ haveBall()
+comment5.params=
+comment5.target=void\ releaseBall()
+comment6.params=
+comment6.target=int\ getNumBalls()
+comment7.params=
+comment7.target=void\ reduceNumBalls()
+comment7.text=\r\n\ Method\ reduceNumBalls()\ decreases\ numBall\ with\ 1.\ This\ is\ necessary\ for\ the\ extra\ lives.\r\n
+comment8.params=
+comment8.target=void\ removeBall()
+comment8.text=\r\n\ Method\ removeBall()\ removes\ the\ Minion\ (\ ball)\ on\ the\ paddle.\r\n
+numComments=9

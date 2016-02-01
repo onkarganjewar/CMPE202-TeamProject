@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=gm
+comment0.target=GState(GameManager)
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=void\ doJumping()
+comment3.params=
+comment3.target=void\ die()
+numComments=4

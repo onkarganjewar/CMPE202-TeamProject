@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=newGame\ p
+comment1.target=ExitGameCommand(IGameReceiver,\ Paddle)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ exitGame\r\n
+comment2.params=
+comment2.target=void\ execute()
+numComments=3

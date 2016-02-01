@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WelcomeInstructions()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WelcomeInstructions.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ showMessage()
+comment1.text=\r\n\ Displays\ some\ instructions\ and\ other\ stuff.\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=paddle
+comment1.target=void\ doAction(Paddle)
+numComments=2
