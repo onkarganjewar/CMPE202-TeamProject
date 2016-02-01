@@ -56,5 +56,5 @@ Onkar Ganjewar, Aayush Agrawal, Anisha Hegde, Anuja Asalkar, Anuja Vaidya.
 
 
 ### Copyright & License 
-This is the modified version of already existing open source scenario “Greenfoot Breakout”. It is a part of the book “Introduction to Programming with Greenfoot” by Michael Kolling. Author has provided permission to modify, distribute or copy the content.
+This is the modified version of already existing open source scenario “Greenfoot Breakout”. It is a part of the book “Introduction to Programming with Greenfoot” by Michael Kolling. Author has granted permission to modify, distribute or copy the content.
 
