@@ -9,7 +9,7 @@ Can you get through all the levels of the Game along with the bonus in final sta
 
 
 ### About
-An interactive game developed on the Greenfoot platform as a part of Final Project submission for CMPE 202. Primary objective of this project was to understand and implement the design patterns along with building a Game. The project thus includes 5 design patterns namely    
+An interactive game developed on the Greenfoot platform as a part of Final Project submission for CMPE 202. Primary objective of this project was to understand and implement the design patterns along with developing a Game. The project thus includes 5 design patterns namely    
 1.	Factory Method – To create new objects per stage.         
 2.	State – To navigate through alive and dead state.         
 3.	Command – To execute various commands such as Start Game or Exit Game.          
