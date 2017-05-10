@@ -5,7 +5,13 @@
 ### Synopsis
 Minion is hungry and he wants to eat! Help the minion get the things they love such as Banana by moving the trampoline in the direction of fruits. Avoid the obstacle at final stage.    
 Can you get through all the levels of the Game along with the bonus in final stage? 
-##### *Check out the game trailer.* [Click here.](https://www.youtube.com/watch?v=ldK4wPIM1vw)
+
+
+### Demo 
+
+Click on the thumbnail below to play the demo video on YouTube.
+
+  [![Minion Jump](https://img.youtube.com/vi/ldK4wPIM1vw/hqdefault.jpg)](https://www.youtube.com/watch?v=ldK4wPIM1vw)
 
 
 ### About
