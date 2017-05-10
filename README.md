@@ -9,7 +9,7 @@ Can you get through all the levels of the Game along with the bonus in final sta
 
 ### Demo 
 
-Click on the thumbnail below to play the demo video on YouTube.
+Click on the thumbnail below to play the 'Minion Jump' trailer on YouTube.
 
   [![Minion Jump](https://img.youtube.com/vi/ldK4wPIM1vw/hqdefault.jpg)](https://www.youtube.com/watch?v=ldK4wPIM1vw)
 
